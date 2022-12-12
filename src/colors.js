@@ -1,0 +1,7 @@
+export let PRIMARY_COLOR = '#72bdf2'
+export let GREEN_COLOR = 'green'
+export let YELLOW_COLOR = 'yellow'
+export let ORANGE_COLOR = 'orange'
+export let RED_COLOR = 'red'
+export let PURPLE_COLOR = 'purple'
+export let BROWN_COLOR = 'brown'
